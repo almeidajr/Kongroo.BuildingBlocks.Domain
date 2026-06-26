@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kongroo.BuildingBlocks.Domain/Kongroo.BuildingBlocks.Domain.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Kongroo.BuildingBlocks.Domain.Tests/Kongroo.BuildingBlocks.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

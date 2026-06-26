@@ -1,0 +1,5 @@
+#nullable enable
+Kongroo.BuildingBlocks.Domain.Class1
+Kongroo.BuildingBlocks.Domain.Class1.Class1() -> void
+Kongroo.BuildingBlocks.Domain.Class1.Name.get -> string!
+Kongroo.BuildingBlocks.Domain.Class1.Name.init -> void
