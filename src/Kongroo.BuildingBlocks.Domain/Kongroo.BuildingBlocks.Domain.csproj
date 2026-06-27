@@ -3,9 +3,9 @@
     <IsPackable>true</IsPackable>
     <PackageId>Kongroo.BuildingBlocks.Domain</PackageId>
     <Title>Kongroo.BuildingBlocks.Domain</Title>
-    <Description>A Kongroo library.</Description>
+    <Description>DDD tactical building blocks (Entity, AggregateRoot, domain events, strongly-typed ids, domain exceptions) for Kongroo microservice domain layers.</Description>
     <Authors>José Rogério de Almeida Júnior &lt;almeidajr.vr@gmail.com&gt;</Authors>
-    <PackageTags>kongroo</PackageTags>
+    <PackageTags>kongroo;ddd;domain-driven-design;building-blocks;aggregate;domain-events</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageReleaseNotes>See the project's GitHub Releases for changes.</PackageReleaseNotes>
